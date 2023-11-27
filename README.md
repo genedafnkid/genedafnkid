@@ -1,4 +1,4 @@
-![logo](https://github.com/genedafnkid/genedafnkid/blob/main/github-header-image.png)
+![logo](https://github.com/genedafnkid/genedafnkid/blob/main/github-header-image(1).png)
 <h1 align="center">Hi 👋, I'm Gene!</h1>
 <h3 align="center">A 3rd year IT student from the Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://b761849.smushcdn.com/761849/wp-content/uploads/spanish-level-test.gif?lossy=2&strip=1&webp=1">
