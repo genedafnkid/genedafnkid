@@ -1,6 +1,6 @@
 ![logo](https://github.com/genedafnkid/genedafnkid/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Gene!</h1>
-<h3 align="center">An aspiring Data Analyst from the Philippines</h3>
+<h3 align="center">A 3rd year IT student from the Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://b761849.smushcdn.com/761849/wp-content/uploads/spanish-level-test.gif?lossy=2&strip=1&webp=1">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=genedafnkid&label=Profile%20views&color=0e75b6&style=flat" alt="genedafnkid" /> </p>
 
